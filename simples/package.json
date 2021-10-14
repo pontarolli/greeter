@@ -1,0 +1,16 @@
+{
+  "name": "greeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greeter.service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moleculer": "^0.14.12",
+    "moleculer-repl": "^0.6.4",
+    "nats": "^1.4.12"
+  }
+}
